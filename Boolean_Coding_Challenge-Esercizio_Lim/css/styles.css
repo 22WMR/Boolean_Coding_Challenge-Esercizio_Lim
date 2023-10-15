@@ -1,0 +1,75 @@
+body {
+	background-image: url('../immagini/background.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-family: sans-serif;
+}
+
+#container {
+	background-color: #00000080;
+	border-radius: 20px;
+	margin: 3% 15%;
+	padding: 3%;
+}
+
+.logo {
+	display: block; 
+	max-width: 20%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1 {
+	color: #07DC02;
+	text-align: center;
+	font-size: 1.5em;
+}
+
+.nav-bar {
+	display: flex;
+	background-color: #07DC02;
+	padding: 10px;
+}
+
+.nav-buttons { 
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.monopattini {
+	color: #ffffff;
+}
+
+p {
+	margin-top: 0;
+	margin-bottom: 3px;
+}
+
+h2 {
+	font-size: 1.3em;
+	margin-bottom: 5px;
+}
+
+.rettangolo {
+	height: 20px;
+	border-radius: 5px;
+}
+
+.gino div{
+	background-color: #F5B453;
+	width: 30%;
+}
+
+.mike div {
+	background-color: #1DC31E;
+	width: 50%;
+}
+
+.fede div {
+	background-color: #BE4141;
+	width: 15%;
+}
+
+
+
+
